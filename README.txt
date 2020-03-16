@@ -1,0 +1,1 @@
+theta elso szakasz zaro
