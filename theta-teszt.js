@@ -1,12 +1,13 @@
 // 1. kerdes
-// valtozo
-let a = 5
-// konstans
-const b = 8
-// tomb
-const c = [1, 2, 3]
-//object
-const d = {key1: 1, key2: 2}
+// szam
+const a = 5;
+// string
+const b = "poloska";
+// object
+const c = {key1: 1, key2: 2};
+// boolean
+let d = true;
+let e = false;
 
 //2. kerdes
 // Egy string vagy egy szam ertekkent adodik at. Ezeket tudjuk modositani a fuggvenyen belul, de az eredeti valtozo
