@@ -80,6 +80,9 @@ const switchFunc = (num, arr) => {
       break;
     case 3:
       console.log(num, count + "szor talalhato meg a tombben")
+      break;
+    default:
+      console.log(num + "haromnal tobbszor talalhato meg a tombben")
   }
 }
 
